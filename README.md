@@ -1,4 +1,4 @@
-/**Benchmarking Scoring models for Information Retrieval**/
+**Benchmarking Scoring models for Information Retrieval**
 
 - The application considers the following models - 
 
@@ -24,4 +24,4 @@ or any combinations of the "Model", "REMOVE_STOPWORDS" and "MAX_MATCHED_DOC_LIMI
 
 
 In order to see the code of the application, please check the class file \src\main\java\com\irdm\BenchmarkScoringFunctions.java.
-The application internally takes into the consideration the document, queries and assessment files inside the resources folder of the project.
+The application internally takes into consideration the document, queries and assessment files inside the resources folder of the project.
